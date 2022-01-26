@@ -11,6 +11,10 @@ El reloj debera actualizarse cada segundo y además, debajo de él debe haber un
 - El codigo del custom hook debe tener pruebas unitarias
 - Debe usar todo lo posible de Javascript moderno (optional chaining, destructuring, etc)
 - Debe usar SCSS
+- Se evaluara buenas practicas de desarrollo, nomenclaturas claras, CLEAN code, etc
 
 ## Opcional:
 - Agregar auto formateo con eslint
+
+## Entrega
+Para la entrega del proyecto, crea una rama con tu nombre. Tambien se considerara al momento de la evaluacion la forma en la que se fue enviando nuevos commits (nomenclatura/descripcion de los cambios incrementales).
